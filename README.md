@@ -6,6 +6,9 @@ Have you ever have such worries:
 
 Then PDFanticheck can help you. The function of PDFanticheck is to convert the original PDF content into an image and create a new layer to overlay the randomly generated text, so that what the system reads is not the original text, but the human eye can still see the original content.
 
+Please note ⚠️: This method is not effective for OCR-based systems, and the author encourages open and collaboration.😊
+
+
 ## augments🛠
  - text_length：The length of the text you want to randomly generate
  - opacity_range: Transparency. If it is fully transparent, only the machine can recognize it. If it is opaque, the human eye can also see the generated text
@@ -20,6 +23,8 @@ Then PDFanticheck can help you. The function of PDFanticheck is to convert the o
  - 不希望pdf文件被无关人员复制
    
 那么PDFanticheck可以帮助到你。PDFanticheck的功能是：将原有pdf内容转化为图片，并新建图层叠加随机生成的文本，这样系统读取到的就不是原文本了，而人眼依然可以看到原内容。
+
+请注意⚠️：此方法对基于OCR的系统无效，并且作者更鼓励开放合作的模式😊
 
 ## 参数🛠
  - text_length：想要随机生成的文本长度
